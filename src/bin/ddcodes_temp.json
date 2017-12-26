@@ -1,0 +1,283 @@
+{
+  "TimeStamp" : "451517094537",
+  "CodeCount" : 46,
+  "LastUpdated" : "Never",
+  "ddCodes" : [
+     {
+        "ddCode" : "MCWNDF",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1932",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "NHPPFH",
+        "ddAmt" : "225,000",
+        "ddID" : "17-1931",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "VNTHLV",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1930",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "BWCHJG",
+        "ddAmt" : "200,000",
+        "ddID" : "17-1929",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "PHTVNJ",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1928",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "JZJTHV",
+        "ddAmt" : "300,000",
+        "ddID" : "17-1927",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "HWVKXM",
+        "ddAmt" : "225,000",
+        "ddID" : "17-1925",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "WXKFBT",
+        "ddAmt" : "225,000",
+        "ddID" : "17-1917",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "FNVTVV",
+        "ddAmt" : "300,000",
+        "ddID" : "17-1915",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "HHPNVB",
+        "ddAmt" : "225,000",
+        "ddID" : "17-1914",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "FBQWMQ",
+        "ddAmt" : "225,000",
+        "ddID" : "17-1912",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "ZRTLKD",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1909",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "RNZDDZ",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1908",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "GVKTMQ",
+        "ddAmt" : "300,000",
+        "ddID" : "17-1907",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "JPJFGZ",
+        "ddAmt" : "225,000",
+        "ddID" : "17-1906",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "DFBXVJ",
+        "ddAmt" : "200,000",
+        "ddID" : "17-1903",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "RTTPQM",
+        "ddAmt" : "200,000",
+        "ddID" : "17-1902",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "WLHNMH",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1901",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "HPHFTR",
+        "ddAmt" : "50,000",
+        "ddID" : "17-1899",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "CKNMKK",
+        "ddAmt" : "225,000",
+        "ddID" : "17-1897",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "KDLBNJ",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1896",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "GFHMQH",
+        "ddAmt" : "200,000",
+        "ddID" : "17-1895",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "LWJCCL",
+        "ddAmt" : "200,000",
+        "ddID" : "17-1894",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "XKXLQT",
+        "ddAmt" : "200,000",
+        "ddID" : "17-1893",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "PZTLKK",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1892",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "FJQHXG",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1879",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "CVTQBF",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1848",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "WQVWKV",
+        "ddAmt" : "200,000",
+        "ddID" : "17-1786",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "RDBMZV",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1759",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "MNFVQX",
+        "ddAmt" : "250,000",
+        "ddID" : "17-1237",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "FNMJJW",
+        "ddAmt" : "200,000",
+        "ddID" : "17-939",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "LKDCCB",
+        "ddAmt" : "200,000",
+        "ddID" : "17-696",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "NFJWVT",
+        "ddAmt" : "150,000",
+        "ddID" : "17-335",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "KRHJQT",
+        "ddAmt" : "250,000",
+        "ddID" : "17-277",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "HRQWBM",
+        "ddAmt" : "1,000,000",
+        "ddID" : "16-015",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "FNFGHC",
+        "ddAmt" : "250,000",
+        "ddID" : "16-014",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "NLVLMC",
+        "ddAmt" : "250,000",
+        "ddID" : "16-012",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "JNRTHX",
+        "ddAmt" : "250,000",
+        "ddID" : "16-011",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "PKZZJP",
+        "ddAmt" : "200,000",
+        "ddID" : "16-010",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "XVVCHJ",
+        "ddAmt" : "150,000",
+        "ddID" : "16-009",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "DJLPZX",
+        "ddAmt" : "200,000",
+        "ddID" : "16-007",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "TLCDFR",
+        "ddAmt" : "250,000",
+        "ddID" : "16-005",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "VZXRXX",
+        "ddAmt" : "150,000",
+        "ddID" : "16-004",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "WNLZHD",
+        "ddAmt" : "1,000,000",
+        "ddID" : "16-003",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "FNHMWX",
+        "ddAmt" : "200,000",
+        "ddID" : "16-002",
+        "ddUsed" : 0
+     },
+     {
+        "ddCode" : "GDNTJF",
+        "ddAmt" : "200,000",
+        "ddID" : "16-001",
+        "ddUsed" : 0
+     }
+  ]
+}
