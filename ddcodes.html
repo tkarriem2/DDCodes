@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Material+Icons|Open+Sans" />
+    <link rel="stylesheet" href=" https://cdn.jsdelivr.net/npm/materialize-css@0.100.2/dist/css/materialize.min.css" />
+    <link rel="stylesheet" href="sty/ddcodes.css" />
+    <script src="https://cdn.jsdelivr.net/g/jquery,materialize,nunjucks,lodash,velocity@1.5.0(velocity.min.js+velocity.ui.min.js)"></script>
+
+    <script src="src/ddcodes.js"></script>
+
+</head>
+
+<body>
+    <div id="jsnfl" class="row">
+        <br/>
+        <form id="jsnChks" method="post" action="#">
+            <div class="btngrp">
+                <button id="btnsv" class="waves-effect waves-light btn-small disabled" type="submit" name="svfrm">Update</button>
+                <button id="btncnl" class="waves-effect waves-light btn-small disabled" name="svfrm">Cancel</button>
+                <button id="btnundo" class="waves-effect waves-light btn-small disabled" type="submit" name="svfrm">Undo</button>
+            </div>
+
+            <table class="bordered highlight centered collapsed responsive-table">
+                <thead id="tblhd"></thead>
+                <tbody id="tblbod"></tbody>
+            </table>
+        </form>
+    </div>
+</body>
+
+</html>
